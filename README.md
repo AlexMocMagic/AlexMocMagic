@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlexMocMagic
+- 👋 Hi, I’m @AlexMocMagic (Alex),
   
-- 💻 I’m a 16 years old fron-tend developer (Html, Css, Js, React js, Tailwind)
+- 💻 I’m a 16 years old frontend developer (Html, Css, Js, React js, Tailwind)
 
 - ✨I am also a web designer and I post my work on IG so if you want to take a look find me there
   
@@ -8,4 +8,4 @@
   
 - 🤝 I’m looking to collaborate on little frontend websites or instagram posts so I can grow on social medias
   
-- 📫 You can reach me on IG (@alex.devweb), on Linkedin (Alex-Mocanu or Wexe) or sending me an email (alexandrumocanu409@gmail.com)
+- 📫 You can reach me on IG (@alex.devweb), on Linkedin (Alex-Mocanu or Wexe) or by sending me an email (alexandrumocanu409@gmail.com)
