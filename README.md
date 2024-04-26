@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexMocMagic (Alex),
   
-- 💻 I’m a 16 years old frontend developer (Html, Css, Js, React js, Typescript)
+- 💻 I’m a 16 years old frontend developer (Html, Css, Js, React js, Typescript and more...)
 
 - ✨I am also a web designer and I post my work on IG so if you want to take a look find me there (@alex.devweb)
   
