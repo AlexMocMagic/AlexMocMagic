@@ -8,4 +8,4 @@
   
 - 🤝 I’m looking to collaborate on little frontend websites or instagram posts with other web developers
   
-- 📫 You can reach me on IG (@alex.devweb), on Linkedin (Alex-Mocanu or Wexe) or by sending me an email (alexandrumocanu409@gmail.com)
+- 📫 You can reach me on IG (@alex.devweb), on Linkedin (Alex-Mocanu or Wexe) or by sending me an email (alexandrumocanu409@gmail.com or alex.frontendreact@gmail.com)
